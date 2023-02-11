@@ -1,6 +1,6 @@
 # Program to check if a string is palindrome or not
 
-my_str = 'sample2'
+my_str = 'sample3'
 
 # make it suitable for caseless comparison
 my_str = my_str.casefold()
